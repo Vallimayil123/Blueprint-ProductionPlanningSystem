@@ -1,0 +1,23 @@
+# React (Create React App)
+frontend/node_modules/
+frontend/build/
+
+# Spring Boot (Maven)
+backend/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
